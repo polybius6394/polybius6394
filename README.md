@@ -13,6 +13,7 @@ Basically, that means that you can modify, redistribute, whatever, as long as;
 
 Now, that's what I gathered from skimming the license, but if you really want to be sure, you can read the full text with the link below.
 https://www.bohemia.net/community/licenses/arma-public-license-share-alike
+Ah, also, feel free to expand upon my work without directly contacting me. I'm generally slow to respond and my answer will probably be yes anyhow.
 
 If you need to contact me, for any reason, you can message me on Discord @ polybius.6394 or email me at polybius6394.public@gmail.com. Discord is the fastest way to reach me.
 
