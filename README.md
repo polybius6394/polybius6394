@@ -10,6 +10,7 @@ Basically, that means that you can modify, redistribute, whatever, as long as;
 - The subsequent material is also under APL-SA
 - The content stays in the Arma series
 - The content is not modified
+
 Now, that's what I gathered from skimming the license, but if you really want to be sure, you can read the full text with the link below.
 https://www.bohemia.net/community/licenses/arma-public-license-share-alike
 
