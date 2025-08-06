@@ -1,7 +1,6 @@
 Hey, I'm polybius6394 (or poly on most platforms).
 
-I make mods for Arma 3 and Arma Reforger (primarily the latter now).
-Unfortunately, due to some stuff out of my control, I've lost the source files for a good number of my mods. Anything I still have the source material for will be uploaded here to Github.
+I mostly make mods for Arma Reforger, and previously Arma 3, but I sometimes mod other games such as Nuclear Option or VTOL VR.
 I'm happy to listen to any requests you may have, but I can't promise that anything will actually get done, as I generally only work on stuff that interests me.
 
 Pretty much anything I make, unless specified otherwise, is licensed under APL-SA.
